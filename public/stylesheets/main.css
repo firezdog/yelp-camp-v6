@@ -1,0 +1,28 @@
+.wrapper {
+    margin: 40px !important;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+h4.pull-right {
+    margin: 0;
+}
+
+.caption-full, p {
+    padding: 10px;
+}
+
+.comment {
+    margin: 0 5px;
+}
+
+.user-form {
+    margin: auto;
+    width: 30em;
+}
